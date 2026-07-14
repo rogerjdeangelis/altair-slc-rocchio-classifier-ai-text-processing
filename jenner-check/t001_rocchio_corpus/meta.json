@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_rocchio_corpus",
+  "source_file": "altair-slc-rocchio-classifier-ai-text-processing.sas",
+  "source_blob_sha": "2e3dc94cc779a977a8fb661ac79a4694b863c177",
+  "source_commit": "0de103faf0ae3801bebfa924ae27fe60284dc533",
+  "notes": "SAS-native portion of the Rocchio classifier example: the two cards4 DATA steps that build workx.training (6 labelled docs) and workx.testing (4 docs), verbatim from the upstream script, plus PROC PRINT of both and PROC FREQ of the class balance. Only change: WORKX (a persistent d:\\wpswrkx libname upstream) is mapped to WORK in autoexec.sas so the run is self-contained. validvarname=v7 and the 'input doc & $100.' ampersand list input are the author's."
+}
