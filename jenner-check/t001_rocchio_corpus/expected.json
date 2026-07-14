@@ -1,0 +1,14 @@
+{
+  "_captured_at": "2026-07-14T11:05:00Z",
+  "_captured_run_id": "r_eec61d916dc942018e964b0049cd7a50",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "Wrote workx.training (6 rows, 2 columns).",
+    "Wrote workx.testing (4 rows, 1 columns).",
+    "PROC PRINT completed: 6 observations printed, 2 variables",
+    "PROC PRINT completed: 4 observations printed, 1 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

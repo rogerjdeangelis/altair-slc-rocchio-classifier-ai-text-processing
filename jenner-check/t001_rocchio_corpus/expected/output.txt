@@ -1,0 +1,23 @@
+
+  Obs                                    doc        label
+-----  -------------------------------------  -----------
+    1  machine learning is great              ai
+    2  deep learning is amazing               ai
+    3  artificial intelligence is the future  ai
+    4  python programming is fun              programming
+    5  java programming is robust             programming
+    6  c++ programming is fast                programming
+
+  Obs                            doc
+-----  -----------------------------
+    1  neural networks are powerful
+    2  coding in python is enjoyable
+    3  java code runs everywhere
+    4  deep neural networks learn
+
+                                                   The FREQ Procedure
+
+label          Frequency    Percent
+------------------------------------
+ai                     3     50.00
+programming            3     50.00
